@@ -1,5 +1,5 @@
 
-![Tagion Banner](Github_home.jpg)
+![Tagion Banner](https://github.com/tagion/.github/blob/master/profile/Github_home.jpg?raw=true)
 
 # Get Involved
 Tagion is a fully decentralised monetary system, meaning it is secure, scalable and decentralised. The jist of it is a unique approach to governance and that we have been able to create a decentralised network with hashgraph as the consensus mechanism. Further, as exact ordering is a given, all sorts of asset trading is well supported through the future DEX.
