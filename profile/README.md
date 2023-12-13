@@ -9,13 +9,5 @@ Tagion is a fully decentralised data- and transaction system, meaning it is secu
 
 💬 Chat and ask questions on the [Official Discord](https://discord.gg/k7Rqmu78PZ).
 
-# Activity stats from our of our main repositories (2023-09-13):
-
-Contributions
-![Contributions, Tagion branch, 2023-09-13](https://github.com/tagion/.github/blob/master/profile/Contributions_Tagion_branch_2023-09-13.png)
-
-Weekly Commits
-![Weekly Commits, 2023-09-13, Tagion branch](https://github.com/tagion/.github/blob/master/profile/Weekly_Commits_2023-09-13_Tagion_branch.png)
-
-Code Frequency
-![Code Frequency, 2023-09-13, Tagion Branch](https://github.com/tagion/.github/blob/master/profile/Code_Frequency_2023-09-13_Tagion_Branch.png)
+# Contribute
+Checkout the active pinned repositories and become a contributer 🤙
